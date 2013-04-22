@@ -10,7 +10,7 @@ remake_project(
   SUMMARY "Morsel MOOS bindings"
   AUTHOR "Jerome Maye"
   CONTACT "jerome.maye@mavt.ethz.ch"
-  HOME "http://aslforge.ethz.ch/projects/morsel-moos"
+  HOME "https://github.com/jmaye/morsel-moos"
   LICENSE "GNU Lesser General Public License (LGPL)"
   INSTALL /usr
 )
@@ -37,4 +37,4 @@ remake_pack_deb(
   COMPONENT doc
   DESCRIPTION "Documentation"
   morsel-moos
-)
+
